@@ -28,4 +28,5 @@ A couple of buttons and a timecode readout on the Dope Sheet's Grease Pencil too
 - Browse to where you saved the above `.zip`
 - Click Install
 - Don't forget to enable the add-on with the checkbox
+
 ![image](https://github.com/user-attachments/assets/a013c15b-4b0d-4044-84e0-84881e056b2a)
