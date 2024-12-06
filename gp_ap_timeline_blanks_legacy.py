@@ -8,7 +8,7 @@ bl_info = {
     "category": "Animation",
     "support": "COMMUNITY",
     "doc_url": "https://bitey.com",
-    "tracker_url": "https://github.com/35743/GreasePencil/issues",
+    "tracker_url": "https://github.com/35743/GreasePencil-Legacy/issues",
     "warning": "",
     "license": "GPL-3.0"
 }
