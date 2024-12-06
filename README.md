@@ -1,4 +1,4 @@
-# GreasePencil-Legacy
+# GreasePencil Keyframes -Legacy
 Timeline and Keyframe utilities for Grease Pencil animators living in the past.
 - ***Tested on Blender 3.6.16***
 - Besides compatibility, the only other difference between this and the 4+ version is the Dope Sheet's +5 and +10 buttons are always set to '*Start at Playhead'*, so initially you should position the playhead where you want the keyframes added.
@@ -28,3 +28,4 @@ A couple of buttons and a timecode readout on the Dope Sheet's Grease Pencil too
 - Browse to where you saved the above `.zip`
 - Click Install
 - Don't forget to enable the add-on with the checkbox
+![image](https://github.com/user-attachments/assets/a013c15b-4b0d-4044-84e0-84881e056b2a)
